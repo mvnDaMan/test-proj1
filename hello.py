@@ -1,3 +1,6 @@
 print("Hello world!")
-print()
+
+if "a" == "a":
+  print("\"a\" is definitely the letter \'a\'")
+
 print("Bye!")
